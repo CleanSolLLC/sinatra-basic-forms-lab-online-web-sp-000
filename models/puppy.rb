@@ -3,6 +3,8 @@ class Puppname, y
   
   def initialize(name, breed, age)
     @name = name
-    @bre
+    @breed = breed
+    @age = age 
+  end
   
 end
